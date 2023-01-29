@@ -4,3 +4,4 @@
 # Essa é uma atividade inicial do curso de aprendizado sobre Git e GitHub.
 
 - Risoto de Calabresa
+- Chocolate da Mana
